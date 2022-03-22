@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """<b>Hi {},
-I'm <a href="https://telegra.ph/file/e4a22cfe44b6135bc1ecb.jpg">WWM URL DOWNLOADER</a> !
+I'm URL DOWNLOADER BOT !
 You can upload </b><i> File or Video </i> <b> to Telegram with direct link, Using me 😊!
 /help for more details!</b>"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
