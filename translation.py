@@ -29,7 +29,7 @@ URL | filename | username | password"""
  Video  - Give File as video without Screenshots
  File   - Give File without Screenshots </i>
 
-<b>Works with zee5, sony.live, voot and much more 😋..TRy it noW!
+<b>Works with youtube,zee5, sony.live, voot and much more 😋..Try it noW!
 
 @wolrd_wide_movies</b>
 """
