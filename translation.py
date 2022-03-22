@@ -10,17 +10,15 @@ URL | filename | username | password"""
     DOWNLOAD_START = "📥Downloading..."
     UPLOAD_START = "📤Uploading..."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me \n\n<b>Join @TMWAD For More UsefUl Bots Like Me </b>"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@TMWAD"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me \n\n<b>Join @world_wide_movies For More UsefUl Bots Like Me </b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@world_wide_movies"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     CUSTOM_CAPTION_UL_FILE = "{}"
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     ABOUT_MSG = """ Something About Me :
     
-   ☞My Name  : All Url Uploader Bot
-
-   ☞Updates  : @TMWAD    
+   ☞My Name  : All Url Uploader Bot    
 
    ☞Language : Python3
 
