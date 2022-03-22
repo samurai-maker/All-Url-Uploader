@@ -46,8 +46,8 @@ async def start(bot, message):
     reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("WWM MOVIE GROUP", url="https://t.me/WORLD_WIDE_MOVIES"),
-                    InlineKeyboardButton("MALAYALAM CHATTING", url="https://t.me/MALAYALAM_CHATTING")
+                    InlineKeyboardButton("WWM MOVIE GROUP", url="https://t.me/WORLD_WIDE_MOVIES")],
+                    [InlineKeyboardButton("MALAYALAM CHATTING", url="https://t.me/MALAYALAM_CHATTING")
                 ]
             ]
         ),
