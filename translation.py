@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """<b>Hi {},
 I'm All URL Uploader!
-You can upload </b><code> File or Video </code> <b> too Telegram with direct link, Using this bot!
+You can upload </b><code> File or Video </code> <b> too Telegram with direct link, Using me 😊!
 /help for more details!</b>"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
