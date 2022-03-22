@@ -13,7 +13,7 @@ from translation import Translation
 async def cb_handler(client: kinu, query: CallbackQuery):
     if query.data == "help_kt":
         buttons = [[
-            InlineKeyboardButton('Updates', url="https://t.me/TMWAD"),
+            InlineKeyboardButton('WWM MOVIE GROUP', url="https://t.me/world_wide_movies"),
             InlineKeyboardButton('About', callback_data='about_kt')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start_kt'),
@@ -33,8 +33,7 @@ async def cb_handler(client: kinu, query: CallbackQuery):
        
     elif query.data == "start_kt":
         buttons = [[
-            InlineKeyboardButton('Help', callback_data='help_kt'),
-            InlineKeyboardButton('🤖 Updates', url="https://t.me/TMWAD")
+            InlineKeyboardButton('Help', callback_data='help_kt')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -47,7 +46,7 @@ async def cb_handler(client: kinu, query: CallbackQuery):
        
     if query.data == "about_kt":
         buttons = [[
-            InlineKeyboardButton('🦸 Deverloper', url='https://github.com/kalanakt')
+            InlineKeyboardButton('🦸 Deverloper', url='https://t.me/slogan_98/392')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start_kt'),
             InlineKeyboardButton('🔐 Close', callback_data='close_kt')
