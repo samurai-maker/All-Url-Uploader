@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """<b>Hi {},
-I'm All URL Uploader!
-You can upload </b><code> File or Video </code> <b> too Telegram with direct link, Using me 😊!
+I'm <a href="https://telegra.ph/file/e4a22cfe44b6135bc1ecb.jpg">WWM URL DOWNLOADER</a> !
+You can upload </b><i> File or Video </i> <b> to Telegram with direct link, Using me 😊!
 /help for more details!</b>"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
@@ -19,14 +19,19 @@ URL | filename | username | password"""
  ☞Language : Python3
  ☞Library  : <a href="https://docs.pyrogram.org/">Pyrogram 1.0.7</a>"""
     HELP_USER = """<b>Please Follow These steps!</b>
- <code>   
-1. Send url (example.domain/File.mp4 | New Filename.mp4).
+ <i>   
+1. Send url (example.domain).
 2. Send Image As Custom Thumbnail (Optional).
 3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File (video) as file with Screenshots
-   Video  - Give File as video without Screenshots
-   File   - Give File without Screenshots </code>
+   
+ SVideo - Give File as video with Screenshots
+ DFile  - Give File (video) as file with Screenshots
+ Video  - Give File as video without Screenshots
+ File   - Give File without Screenshots </i>
+
+<b>Works with zee5, sony.live, voot and much more 😋..TRy it noW!
+
+@wolrd_wide_movies</b>
 """
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /generatecustomthumbnail to a media album, to generate custom thumbail"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = """Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
