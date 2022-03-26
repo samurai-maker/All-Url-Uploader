@@ -47,7 +47,7 @@ async def start(bot, message):
             [
                 [
                     InlineKeyboardButton("мσνιє яєqυєѕт gяσυρ 📲", url="https://t.me/WORLD_WIDE_MOVIES")],
-                    [InlineKeyboardButton("➕ ѕнαяє мє ➕", url="https://t.me/MALAYALAM_CHATTING")
+                    [InlineKeyboardButton("➕ ѕнαяє мє ➕", url="https://telegram.me/share/url?url=%20t.me/youtube_instagram_downloaderbot")
                 ]
             ]
         ),
