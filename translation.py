@@ -1,7 +1,7 @@
 class Translation(object):
-    START_TEXT = """<b>Hi {},
+    START_TEXT = """<i><b>Hi {},
 I'm URL DOWNLOADER BOT !
-You can upload </b><i> File or Video </i> <b> to Telegram with direct link, Using me 😊!</b>
+You can upload </b><i> File or Video </i> <b> to Telegram with direct link, Using me 😊!</b></i>
 
 <i>For movie,series,documentry enquiries visit our group using below 'мσνιє яєqυєѕт gяσυρ' button.</i>
 
@@ -24,7 +24,6 @@ URL | filename | username | password"""
     HELP_USER = """
 <b>supports</b>
 <i> 
-
 1.Youtube
 2.Instagram
 3.Zee5
@@ -33,8 +32,6 @@ URL | filename | username | password"""
 And much more 😋..Try it noW!
 
 </i>
-
-
 <b>Please Follow These steps!</b>
 
 <i>   
