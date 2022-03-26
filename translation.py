@@ -6,7 +6,7 @@ You can upload </b><i> File or Video </i> <b> to Telegram with direct link, Usin
 <i>For movie,series,documentry enquiries visit our group using below 
 'мσνιє яєqυєѕт gяσυρ' button.</i>
 
-<b>/help for more details!</b>"""
+<i><b>/help for more details!</b></i> """
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
