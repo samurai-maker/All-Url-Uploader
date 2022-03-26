@@ -3,7 +3,8 @@ class Translation(object):
 I'm URL DOWNLOADER BOT !
 You can upload </b><i> File or Video </i> <b> to Telegram with direct link, Using me 😊!</b></i>
 
-<i>For movie,series,documentry enquiries visit our group using below 'мσνιє яєqυєѕт gяσυρ' button.</i>
+<i>For movie,series,documentry enquiries visit our group using below 
+'мσνιє яєqυєѕт gяσυρ' button.</i>
 
 <b>/help for more details!</b>"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
@@ -27,7 +28,7 @@ URL | filename | username | password"""
 1.Youtube
 2.Instagram
 3.Zee5
-4.Sony.live
+4.Sony live
 5.Voot
 And much more 😋..Try it noW!
 
